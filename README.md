@@ -1,2 +1,5 @@
-# GachonUniv-Vision-LLM-example-structure
-GitHub 예시 구조
+# 예시 README 제목
+
+**한글 이름과 학번 (필수)**
+
+자유롭게 Repo 소개, 과정 개요, 구조 설명, etc.
